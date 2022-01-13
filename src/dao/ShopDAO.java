@@ -11,7 +11,6 @@ import java.util.List;
 import model.Shop;
 
 /**
- * test
  * shopテーブルのDAOです。
  */
 public class ShopDAO {
